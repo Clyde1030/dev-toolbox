@@ -1,0 +1,29 @@
+9.0
+27
+1       SQLCHAR       0       0       ","      2     activityDate                                     SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR       0       0       ","      3     issuingCompany                                   SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR       0       0       ","      4     policyNumber                                     SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR       0       0       ","      5     issueDate                                        ""
+5       SQLCHAR       0       0       ","      6     policyStatus                                     SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR       0       0       ","      7     cessionStatus                                    SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR       0       0       ","      8     policyFaceAmount                                 ""
+8       SQLCHAR       0       0       ","      9    policyDeathBenefit                               ""
+9	SQLCHAR       0       0       ","      10    policyNar                                        ""
+10      SQLCHAR       0       0       ","      11    policyAccountValue                               ""
+11      SQLCHAR       0       0       ","      12    policyCashValue                                  ""
+12      SQLCHAR       0       0       ","      13    policyGaReserve                                  ""
+13      SQLCHAR       0       0       ","      14    policySaReserve                                  ""
+14      SQLCHAR       0       0       ","      15    policyLoanBalance                                ""
+15      SQLCHAR       0       0       ","      16    settlement                                       SQL_Latin1_General_CP1_CI_AS
+16      SQLCHAR       0       0       ","      17    quotaShare                                       ""
+17      SQLCHAR       0       0       ","      18    cededDeathBenefit                                ""
+18      SQLCHAR       0       0       ","      19    cededNar                                         ""
+19      SQLCHAR       0       0       ","      20    cededAccountValue                                ""
+20      SQLCHAR       0       0       ","      21    cededGaReserve                                   ""
+21      SQLCHAR       0       0       ","      22    cededSaReserve                                   ""
+22      SQLCHAR       0       0       ","      23    cededLoanBalance                                 ""
+23      SQLCHAR       0       0       ","      24    coinsStatReserve                                 ""
+24      SQLCHAR       0       0       ","      25    coinsTaxReserve                                  ""
+25      SQLCHAR       0       0       ","      26    GAAPReserve                                      ""
+26      SQLCHAR       0       0       ","      27    GAAPReserve                                      ""
+27      SQLCHAR       0       0       "\r\n"	28    GAAPReserve                                      ""

@@ -1,0 +1,50 @@
+{
+    // set the theme used by VS code
+    "workbench.colorTheme": "Visual Studio Light",
+
+    // don't display the start-up "help"
+    "workbench.startupEditor": "none",
+
+    // optionally, set the default path where VS Code can find the Python 
+    // interpreter (although virtual environments will make this unnecessary)
+    "python.defaultInterpreterPath": "C:\\Users\\andy.brown\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+
+    // make fonts bigger for the hard-of-seeing!
+    "debug.console.fontSize": 24,
+    "markdown.preview.fontSize": 24,
+    "scm.inputFontSize": 24,
+    "editor.fontSize": 24,
+    "terminal.integrated.fontSize": 24,
+
+    // let CTRL + mouse wheel zoom in and out
+    "editor.mouseWheelZoom": true,
+
+    // on opening settings, show the default settings alongside them
+    "workbench.settings.openDefaultSettings": true,
+        
+    // don't send information to Microsoft (sorry, Bill)
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    
+    // don't optimise VS Code for a screen reader to avoid annoying message
+    // which sometimes pops up
+    "editor.accessibilitySupport": "off",
+
+    // CODE RUNNER SETTINGS
+    
+    // clear previous output window each time we run a program
+    "code-runner.clearPreviousOutput": true,
+
+    // even if some code is selected, run the entire file
+    "code-runner.ignoreSelection": true,
+        
+    // don't save any files before running code ...
+    "code-runner.saveAllFilesBeforeRun": false,
+
+    // ... but do save the current file before running it (as IDLE did)
+    "code-runner.saveFileBeforeRun": true,
+
+    // suppress extra execution messages like [Running] ... and [Done] ...
+    "code-runner.showExecutionMessage": false,
+
+}

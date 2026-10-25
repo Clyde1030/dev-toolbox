@@ -1,0 +1,15 @@
+9.0
+13
+1       SQLCHAR       0       0       ","      2     activityQuarter                                  ""
+2       SQLCHAR       0       0       ","      3     carrierId                                        SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR       0       0       ","      4     policyNumber                                     SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR       0       0       ","      5     issueAge1                                        ""
+5       SQLCHAR       0       0       ","      6     sex1                                             SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR       0       0       ","      7     class1                                           SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR       0       0       ","      8     rating1                                          ""
+8       SQLCHAR       0       0       ","      9     issueAge2                                        ""
+9       SQLCHAR       0       0       ","      10    sex2                                             SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR       0       0       ","      11    class2                                           SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR       0       0       ","      12    rating2                                          ""
+12      SQLCHAR       0       0       ","      15    annualPremium                                    ""
+13      SQLCHAR       0       0       "\r\n"   16    premiumStop                                      ""

@@ -1,0 +1,12 @@
+_archive/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.terraform/
+*.tfstate
+*.tfstate.backup
+.DS_Store
+.env
+.idea/
+.vscode/

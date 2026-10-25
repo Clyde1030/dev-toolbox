@@ -1,0 +1,34 @@
+9.0
+31
+1       SQLCHAR       0       0       ","      2     activityDate                                     SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR       0       0       ","      3     issuingCompany                                   SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR       0       0       ","      4     policyNumber                                     SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR       0       0       ","      5     productId                                        ""
+5       SQLCHAR       0       0       ","      6     issueDate                                        ""
+6       SQLCHAR       0       0       ","      7     statusCode                                       SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR       0       0       ","      8     policyFaceAmount                                 ""
+8       SQLCHAR       0       0       ","      9     policyDeathBenefit                               ""
+9       SQLCHAR       0       0       ","      10    policyNar                                        ""
+10      SQLCHAR       0       0       ","      11    policyAccountValue                               ""
+11      SQLCHAR       0       0       ","      12    policyCashValue                                  ""
+12      SQLCHAR       0       0       ","      13    policyGaReserve                                  ""
+13      SQLCHAR       0       0       ","      14    policySaReserve                                  ""
+14      SQLCHAR       0       0       ","      15    policyLoanBalance                                ""
+15      SQLCHAR       0       0       ","      16    targetPremium                                    ""
+16      SQLCHAR       0       0       ","      17    sizeBand                                         ""
+17      SQLCHAR       0       0       ","      18    premiumMode                                      SQL_Latin1_General_CP1_CI_AS
+18      SQLCHAR       0       0       ","      19    doliTest                                         SQL_Latin1_General_CP1_CI_AS
+19      SQLCHAR       0       0       ","      20    dbOption                                         SQL_Latin1_General_CP1_CI_AS
+20      SQLCHAR       0       0       ","      21    baseFace                                         ""
+21      SQLCHAR       0       0       ","      22    additionalFace                                   ""
+22      SQLCHAR       0       0       ","      23    issueState                                       SQL_Latin1_General_CP1_CI_AS
+23      SQLCHAR       0       0       ","      24    settlement                                       SQL_Latin1_General_CP1_CI_AS
+24      SQLCHAR       0       0       ","      25    quotaShare                                       ""
+25      SQLCHAR       0       0       ","      26    cededDeathBenefit                                ""
+26      SQLCHAR       0       0       ","      27    cededNar                                         ""
+27      SQLCHAR       0       0       ","      28    cededAccountValue                                ""
+28      SQLCHAR       0       0       ","      29    cededGaReserve                                   ""
+29      SQLCHAR       0       0       ","      30    cededSaReserve                                   ""
+30      SQLCHAR       0       0       ","      31    cededLoanBalance                                 ""
+31      SQLCHAR       0       0       "\r\n"   35    flags                                            ""
+

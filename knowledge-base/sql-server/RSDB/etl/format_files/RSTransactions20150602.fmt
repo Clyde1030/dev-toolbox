@@ -1,0 +1,12 @@
+9.0
+9
+1      SQLCHAR       0       0       ","      2     activityDate                                     ""
+2      SQLCHAR       0       0       ","      3     issuingCompany                                   SQL_Latin1_General_CP1_CI_AS
+3      SQLCHAR       0       0       ","      4     policyNumber                                     SQL_Latin1_General_CP1_CI_AS
+4      SQLCHAR       0       0       ","      5     settlement                                       SQL_Latin1_General_CP1_CI_AS
+5      SQLCHAR       0       0       ","      6     accountName                                      SQL_Latin1_General_CP1_CI_AS
+6      SQLCHAR       0       0       ","      7     subAccountName                                   SQL_Latin1_General_CP1_CI_AS
+7      SQLCHAR       0       0       ","      8     transactionTypeCode                              SQL_Latin1_General_CP1_CI_AS
+8      SQLCHAR       0       0       ","      9     amount                                           ""
+9      SQLCHAR       0       0       "\r\n"   10    effectiveDate                                    ""
+
